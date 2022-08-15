@@ -7,12 +7,9 @@ public class Account {
     String pass;
 
     public Account(String name, String document){
-
         this.document = document;
         this.name     = name;
-
-
-
+        
     }
     
 }
